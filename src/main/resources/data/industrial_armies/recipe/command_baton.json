@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    " C",
+    "S "
+  ],
+  "key": {
+    "C": { "item": "minecraft:copper_ingot" },
+    "S": { "item": "minecraft:stick" }
+  },
+  "result": {
+    "id": "industrial_armies:command_baton",
+    "count": 1
+  }
+}
