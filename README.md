@@ -1,4 +1,4 @@
-# Industrial Armies
+# Industrial Armies for Neoforge
 
 An original NeoForge 1.21.1 military logistics mod. The first playable milestone implements
 army enlistment and field orders; subsequent milestones connect manpower to MineColonies and
